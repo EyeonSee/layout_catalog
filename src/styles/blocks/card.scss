@@ -6,7 +6,7 @@
   padding: 0 0 16px;
   box-sizing: border-box;
   border: 1px solid #f3f3f3;
-  transition: 0.3s;
+  transition: 300ms;
 
   width: 200px;
   height: 100%;
@@ -31,7 +31,7 @@
       font-size: 12px;
       font-weight: 500;
       margin: 0;
-      transition: 0.3s;
+      transition: 300ms;
     }
 
     .card:hover &-title {
